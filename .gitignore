@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Munge key (never version this)
+munge.key
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Slurm state directories (if ever copied)
+slurmctld.state
+slurmd.state
+
+# OS files
+.DS_Store

@@ -2,6 +2,21 @@
 **The Exploration Company – HPC Engineer Technical Assignment**
 
 ---
+## Implementation Note
+
+For this PoC, the cluster was implemented using LXD containers instead of Docker.
+
+The networking, isolation model, and operational behavior are equivalent to Docker containers, and the Slurm configuration remains identical.
+
+The architecture can be ported to Docker Compose with minimal adaptation (container runtime substitution only).
+
+The focus of this implementation was to demonstrate:
+
+- Slurm configuration fluency
+- Multi-node scheduling
+- Resource management
+- Failure recovery
+- Authentication troubleshooting
 
 ## 📌 Overview
 

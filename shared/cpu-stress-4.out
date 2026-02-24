@@ -1,0 +1,7 @@
+Running on: compute-2
+stress-ng: info:  [3679] setting to a 150 second (2 mins, 30.00 secs) run per stressor
+stress-ng: info:  [3679] dispatching hogs: 4 cpu
+stress-ng: info:  [3679] successful run completed in 150.04s (2 mins, 30.04 secs)
+stress-ng: info:  [3679] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s
+stress-ng: info:  [3679]                           (secs)    (secs)    (secs)   (real time) (usr+sys time)
+stress-ng: info:  [3679] cpu              731748    150.00    450.47      0.30      4878.33        1623.33

@@ -1,0 +1,4 @@
+JobID=3
+Nodes=compute-[1-2]
+compute-2
+compute-1
